@@ -7,7 +7,10 @@
  * and open the template in the editor.
  */
 
-package org.jxmapviewer.viewer;
+package org.jxmapviewer;
+
+import org.jxmapviewer.viewer.AbstractTileFactory;
+import org.jxmapviewer.viewer.TileFactoryInfo;
 
 /**
  * A tile factory which configures itself using a TileFactoryInfo object and uses a Google Maps like mercator

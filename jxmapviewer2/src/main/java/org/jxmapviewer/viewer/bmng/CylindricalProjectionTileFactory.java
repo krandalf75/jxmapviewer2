@@ -4,7 +4,7 @@ package org.jxmapviewer.viewer.bmng;
 import java.awt.Dimension;
 import java.awt.geom.Point2D;
 
-import org.jxmapviewer.viewer.DefaultTileFactory;
+import org.jxmapviewer.DefaultTileFactory;
 import org.jxmapviewer.viewer.GeoPosition;
 import org.jxmapviewer.viewer.TileFactoryInfo;
 

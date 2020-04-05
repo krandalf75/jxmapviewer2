@@ -13,7 +13,7 @@ import java.awt.geom.Point2D;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
-import org.jxmapviewer.viewer.DefaultTileFactory;
+import org.jxmapviewer.DefaultTileFactory;
 import org.jxmapviewer.viewer.GeoPosition;
 import org.jxmapviewer.viewer.TileFactoryInfo;
 import org.jxmapviewer.viewer.util.GeoUtil;

@@ -9,6 +9,7 @@
 
 package org.jxmapviewer.viewer.wms;
 
+import org.jxmapviewer.DefaultTileFactory;
 import org.jxmapviewer.viewer.*;
 
 /**
